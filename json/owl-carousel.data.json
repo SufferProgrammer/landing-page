@@ -1,0 +1,22 @@
+{
+  "items" : [
+    {
+      "img": "../images/slider.jpg",
+    },
+    {
+      "img": "../images/slider.jpg",
+    },
+    {
+      "img": "../images/slider.jpg",
+    },
+    {
+      "img": "../images/slider.jpg",
+    },
+    {
+      "img": "../images/slider.jpg",
+    },
+    {
+      "img": "../images/slider.jpg",
+    }
+  ]
+}
